@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Math
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
