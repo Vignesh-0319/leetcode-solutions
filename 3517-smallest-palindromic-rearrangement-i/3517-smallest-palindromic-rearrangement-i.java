@@ -1,10 +1,9 @@
 class Solution {
     public String smallestPalindrome(String s) {
-        int n = s.length();
-
+        if(s.length()<2) return s;
         int[] freq = new int[26];
 
-        for (int i = 0; i < n / 2; i++) {
+        for (int i = 0; i < s.length() / 2; i++) {
             freq[s.charAt(i) - 'a']++;
         }
 
@@ -19,8 +18,8 @@ class Solution {
         StringBuilder ans = new StringBuilder();
         ans.append(left);
 
-        if ((n & 1) == 1) {
-            ans.append(s.charAt(n / 2));
+        if ((s.length() & 1) == 1) {
+            ans.append(s.charAt(s.length() / 2));
         }
 
         ans.append(new StringBuilder(left).reverse());
