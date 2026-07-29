@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Array
+|  |
+| ------- |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## Binary Search
+|  |
+| ------- |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
