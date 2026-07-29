@@ -1,5 +1,6 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
+
         int[] mapS = new int[256];
         int[] mapT = new int[256];
         for (int i = 0; i < s.length(); i++) {
