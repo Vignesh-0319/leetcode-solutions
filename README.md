@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0203-remove-linked-list-elements](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Enumeration
