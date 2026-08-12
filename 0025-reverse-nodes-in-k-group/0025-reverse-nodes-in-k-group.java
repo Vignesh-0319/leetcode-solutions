@@ -4,7 +4,7 @@ class Solution {
 
         ListNode temp = head;
         int n = 0;
-
+  
         while (temp != null) {
             n++;
             temp = temp.next;
