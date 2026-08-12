@@ -7,7 +7,7 @@ class Solution {
         long d1 = Math.abs((long) d);
 
         int ans = 0;
-
+ 
         while (n1 >= d1) {
             int cnt = 0;
 
