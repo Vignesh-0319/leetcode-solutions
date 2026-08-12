@@ -5,7 +5,7 @@ class Solution {
             if(height[l]<=height[r]){
             if(height[l]>lmax) lmax=height[l];
             else water+= lmax-height[l];
-            l++;
+            l++; 
         }
         else{
             if(height[r]>rmax) rmax=height[r];
