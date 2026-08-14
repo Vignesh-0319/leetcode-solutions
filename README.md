@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0486-predict-the-winner) |
