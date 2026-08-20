@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0984-string-without-aaa-or-bbb) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
