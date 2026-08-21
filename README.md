@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Recursion
 |  |
 | ------- |
