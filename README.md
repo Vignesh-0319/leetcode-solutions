@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0136-single-number) |
 | [0322-coin-change](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
