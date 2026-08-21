@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0877-stone-game) |
+| [1103-distribute-candies-to-people](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 | [1406-stone-game-iii](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -257,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0494-target-sum) |
+## Simulation
+|  |
+| ------- |
+| [1103-distribute-candies-to-people](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 <!---LeetCode Topics End-->
