@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0877-stone-game](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Recursion
 |  |
 | ------- |
