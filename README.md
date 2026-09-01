@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
