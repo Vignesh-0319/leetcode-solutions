@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0622-design-circular-queue](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0203-remove-linked-list-elements](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0622-design-circular-queue](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Enumeration
 |  |
@@ -311,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
