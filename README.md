@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1406-stone-game-iii](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
