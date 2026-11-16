@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
