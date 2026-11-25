@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -358,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Vignesh-0319/leetcode-solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
